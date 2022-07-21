@@ -1,0 +1,8 @@
+Microservicios
+
+- useState
+const[array, funcion] useState
+
+-props y hooks
+
+-State es un array que tiene dentro otros arrays pero no es una matriz
